@@ -11,17 +11,27 @@
 
 # Introduction
 
-I am a university student currently learning C++ and Python. Although I don't have actual project or collaboration experience yet, I am building my skills through personal learning and practice.
+Hi! I am a university student currently learning C++ and Python. Although I don't have actual project or collaboration experience yet, I am building my skills through personal learning and practice.
 
 
-## Tech Stack
+## Tech Stacks
 
 - **C++**: Variables, control statements, arrays, pointers, object-oriented programming (OOP)
-- **Python**: Basic syntax, lists, dictionaries, file input/output, simple web scraping
+- **Python**: Basic syntax, lists, dictionaries, file input/output
 - **Version Control**: Git (Basic experience with Git repository management)
-- **Development Tools**: Visual Studio (for C++ development), PyCharm (for Python development)
+- **Development Tools**: Visual Studio
 
-  <div align=center>
+## Projects
+
+- Nothing yet
+
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccome3)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ccome3)](https://github.com/anuraghazra/github-readme-stats)
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fccome3&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EFEF7&height=200&section=footer&text=Hello%20World!&fontSize=60&fontColor=000000" />
 	
