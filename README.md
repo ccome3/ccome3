@@ -17,6 +17,9 @@ Hi! I am a university student currently learning C++ and Python. Although I don'
 
 ## Tech Stacks
 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,visualstudio,vscode,github&perline=6)](https://skillicons.dev)
+
+
 - **C++**: Variables, control statements, arrays, pointers, object-oriented programming (OOP) <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/></a>
 - **Python**: Basic syntax, lists, dictionaries, file input/output <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/></a>
 - **Version Control**: Git (Basic experience with Git repository management) <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/></a>
