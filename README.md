@@ -1,14 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EFEF7&height=200&section=header&text=JUST%20TITLE&fontSize=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EFEF7&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=000000" />
 
-- 👋 Hi, I’m @ccome3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Introduction
 
-<!---
-ccome3/ccome3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a university student currently learning C++ and Python. Although I don't have actual project or collaboration experience yet, I am building my skills through personal learning and practice.
+
+
+## Tech Stack
+
+- **C++**: Variables, control statements, arrays, pointers, object-oriented programming (OOP)
+- **Python**: Basic syntax, lists, dictionaries, file input/output, simple web scraping
+- **Version Control**: Git (Basic experience with Git repository management)
+- **Development Tools**: Visual Studio (for C++ development), PyCharm (for Python development)
