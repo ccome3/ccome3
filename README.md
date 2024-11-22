@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=00BEE1&width=435&lines=_Contact+information_)](https://git.io/typing-svg)
 
+<a href="mailto:6lunnul9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+<a href="https://youtube.com/@6lunnul9?si=1FWrdes6CtCKf6H0"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/1unnul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
+<a href="https://open.kakao.com/o/s8QuKJcf"><img src="https://img.shields.io/badge/Kakaotalk-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=000000"/></a>
 
 # Introduction
 
